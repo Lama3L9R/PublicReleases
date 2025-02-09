@@ -14,3 +14,4 @@ Here is the list:
   + Patch Bandizip to unlock the Enterprise version
   + Based on 7.35, and should work on any version around 7.35
   + Tested on 7.36 (Build #68355)
+  + [Download (Personal Telegram Channel)](https://t.me/ldsharepoint/31)
