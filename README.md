@@ -1,5 +1,6 @@
 # PublicReleases
-Releases for those projects that I moved to a private git service
+Releases for those projects that I moved to a private git service 
+(and also those I can't upload to here due to copyright issues, **PIRACY IS BAD! DO NOT DO IT!**)
 
 Here is the list:
 
