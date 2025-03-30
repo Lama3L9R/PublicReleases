@@ -18,7 +18,8 @@ Here is the list:
   + Based on 7.35, and should work on any version around 7.35
   + Tested on 7.36 (Build #68355)
   + [Download (Personal Telegram Channel)](https://t.me/ldsharepoint/31)
-- [Niagara Patcher]
+- [Niagara Patcher](https://t.me/ldsharepoint/40)
   + Patch Niagara Launcher to unlock all pro features
-  + Tested on 1.13.7
-  + [Download (Personal Telegram Channel)](https://t.me/ldsharepoint/36)
+  + Tested on 1.13.10
+  + [Download (Personal Telegram Channel)](https://t.me/ldsharepoint/40)
+  + [Download Pre-patched version (Personal Telegram Channel)](https://t.me/ldsharepoint/42)
