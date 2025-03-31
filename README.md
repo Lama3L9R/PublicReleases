@@ -30,6 +30,7 @@ Here is the list:
   + Unlock professional version
   + Work **ONLY** on 7.13 build 28786
   + Generic Hooking WIP (it means the crack works even if you update the app)
+  + Sources will be released after Generic Hooking is done
   + YOU MUST READ THE PROVIDED README.txt 
   + IF YOU SIMPLY REPLACE THE FILES, IT WONT WORK!
   + [Download (Personal Telegram Channel)](https://t.me/ldsharepoint/44)
