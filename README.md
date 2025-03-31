@@ -4,6 +4,9 @@ Releases for those projects that I moved to a private git service
 
 **If you have encountered any issue with these softwares and wish to open an issue, please open it here instead of on my private git!**
 
+Q: Why don't you upload to GitHub releases?
+A: Repo will be taken down if I do that.
+
 Here is the list:
 
 - [BritishBeggarHooks](https://git.lama.icu/projects/ARC/repos/britishbeggarhooks/browse) 1.0.1
@@ -23,3 +26,10 @@ Here is the list:
   + Tested on 1.13.10
   + [Download (Personal Telegram Channel)](https://t.me/ldsharepoint/40)
   + [Download Pre-patched version (Personal Telegram Channel)](https://t.me/ldsharepoint/42)
+- [BandiView Agent](https://t.me/ldsharepoint/44)
+  + Unlock professional version
+  + Work **ONLY** on 7.13 build 28786
+  + Generic Hooking WIP (it means the crack works even if you update the app)
+  + YOU MUST READ THE PROVIDED README.txt 
+  + IF YOU SIMPLY REPLACE THE FILES, IT WONT WORK!
+  + [Download (Personal Telegram Channel)](https://t.me/ldsharepoint/44)
