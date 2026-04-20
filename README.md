@@ -21,6 +21,7 @@ Here is the list:
   + Based on 7.35, and should work on any version around 7.35
   + Tested on 7.36 (Build #68355)
   + [Download (Personal Telegram Channel)](https://t.me/ldsharepoint/31)
+  + Does not work on latest release, see: https://t.me/ldsharepoint/68 for temp solution
 - [Niagara Patcher](https://git.lama.icu/projects/RE/repos/niagarapatcher/browse)
   + Patch Niagara Launcher to unlock all pro features
   + Tested on 1.13.10
@@ -32,4 +33,4 @@ Here is the list:
   + Generic Hooking WIP (it means the crack works even if you update the app)
   + YOU MUST READ THE PROVIDED README.txt 
   + IF YOU SIMPLY REPLACE THE FILES, IT WONT WORK!
-  + [Download (Personal Telegram Channel)](https://t.me/ldsharepoint/44)
+  + [Download (Personal Telegram Channel)](https://t.me/ldsharepoint/60)
