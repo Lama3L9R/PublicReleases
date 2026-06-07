@@ -13,6 +13,10 @@ Here is the list:
   + **DISCONTINUED!** A rewrite to this project, BritishGenshinHooks, is under development
   + A LSPosed Module for using custom server backends in Guy's British Genshin
   + [Download (GithubReleases)](https://github.com/Lama3L9R/PublicReleases/releases/tag/britishbeggarhooks-1.0.1)
+- [arcrypto](https://git.lama.icu/projects/ARC/repos/arcrypto/browse)
+  + Not public - Arcaea Hash alg dump
+- [arcurl](https://git.lama.icu/projects/ARC/repos/arcurl/browse)
+  + Not public - curl with Arcaea Hash alg dump
 - [atlassian-agent-continued](https://git.lama.icu/projects/RE/repos/atlassian-agent-continued/browse) 1.2.2
   + Keygen for Atlassian software
   + [Download (GithubReleases)](https://github.com/Lama3L9R/PublicReleases/releases/tag/atlassian-agent-continued-3.0)
